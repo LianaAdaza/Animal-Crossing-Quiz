@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ae6484ee-8977-4829-8999-0761505a897a-slack-imgs.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ae6484ee-8977-4829-8999-0761505a897a-slack-imgs@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ae6484ee-8977-4829-8999-0761505a897a-slack-imgs@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
